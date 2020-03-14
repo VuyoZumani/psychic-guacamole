@@ -1,11 +1,10 @@
 # Author: Vuyolwethu Zumani
 # Student number: g17z1278
-# Last updated: 10/10/2019
 # Bayesian Statistics Practical 
 
 #______________________________________________________________________________________________________________________
 #1
-#(a) Done on book
+#(a) Done on paper (attached)
 
 
 
